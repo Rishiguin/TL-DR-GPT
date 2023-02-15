@@ -2,7 +2,7 @@
 
 TLDR Prompt app that generates summaries from input text.
 
-##Try on [Replit](https://replit.com/@MaharshiGuin/TLDR-GPT)
+## Try on [Replit](https://replit.com/@MaharshiGuin/TLDR-GPT)
 
 Based on Steamship's Prompt App template: 
 https://replit.com/@steamship/Steamship-Prompt-App-Template
