@@ -1,0 +1,36 @@
+{
+	"type": "package",
+	"handle": "tldr",
+	"version": "0.1.3",
+	"description": "Generate summaries for news articles, podcasts, and meetings.",
+	"author": "Enias Cailliau",
+	"entrypoint": "api.handler",
+	"public": true,
+	"build_config": {
+		"ignore": [
+			"tests",
+			"examples"
+		]
+	},
+	"configTemplate": {},
+	"steamshipRegistry": {
+		"tagline": "Generate summaries from news articles, podcasts, and meeting transcripts.",
+		"tagline2": "Just supply input text to generate a summary.",
+		"usefulFor": null,
+		"videoURL": null,
+		"githubURL": null,
+		"demoURL": null,
+		"jupyterURL": null,
+		"authorGithub": "EniasCailliau",
+		"authorName": "Enias Cailliau",
+		"authorEmail": "enias@steamship.com",
+		"authorTwitter": "https://twitter.com/eniascailliau",
+		"authorURL": null,
+		"tags": [
+			"Prompt API",
+			"Prompt-based Generation",
+			"Summarization",
+			"GPT-3"
+		]
+	}
+}
